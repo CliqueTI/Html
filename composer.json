@@ -1,7 +1,6 @@
 {
   "name": "cliqueti/html",
   "description": "Classe Auxiliar Para Renderizar HTML - Helper Class to Render HTML",
-  "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
     {
