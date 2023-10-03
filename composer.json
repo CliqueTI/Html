@@ -1,0 +1,23 @@
+{
+  "name": "cliqueti/html",
+  "description": "Classe Auxiliar Para Renderizar HTML - Helper Class to Render HTML",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Paulo",
+      "email": "paulo@cliqueti.com.br",
+      "homepage": "https://www.cliqueti.com.br"
+    }
+  ],
+  "require": {
+    "php": "^8.0",
+    "ext-json": "*",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "CliqueTI\\Html\\": "src"
+    }
+  }
+}
